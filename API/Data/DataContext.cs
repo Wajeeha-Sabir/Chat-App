@@ -18,6 +18,6 @@ namespace API.Data
             services.AddDbContext(options =>
                 options.UseSqlServer("Data Source=localhost;Initial Catalog=MyDatabase;Integrated Security=True"));
         }*/
-        public DbSet<AppUser> MyProperty { get; set; }
+        public DbSet<AppUser> Users { get; set; }
     }
 }
