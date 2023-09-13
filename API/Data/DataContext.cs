@@ -13,11 +13,7 @@ namespace API.Data
         public DataContext()
         {
         }
-      /* public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddDbContext(options =>
-                options.UseSqlServer("Data Source=localhost;Initial Catalog=MyDatabase;Integrated Security=True"));
-        }*/
+      
         public DbSet<AppUser> Users { get; set; }
     }
 }
