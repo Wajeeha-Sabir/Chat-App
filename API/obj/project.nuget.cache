@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHJcCSRkTNyzJ/3pVkX1EWjRMZ6gnf3ZjywGvVtux/AwppVbVAL67tYjbeOZVipPqYeTtSBHCK4UTDyiUIG/Ng==",
+  "dgSpecHash": "WEBN77eRpsRa8VglK7bV2PNbeRknwNxl4AqnTlfR8hjNP2EVadXP9N5PYWEhYGx5j72gaHRvvU85pVFJEcJLOA==",
   "success": true,
-  "projectFilePath": "D:\\Chat-App\\Chat-App\\API\\API.csproj",
+  "projectFilePath": "D:\\Chat-App\\Chat-App\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0-rc.2.22472.11\\microsoft.data.sqlite.core.7.0.0-rc.2.22472.11.nupkg.sha512",
